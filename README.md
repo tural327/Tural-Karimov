@@ -9,7 +9,7 @@ Project have several parts
 3. Apply all saved model to Pyqt5 app
 
 
-![](imgaes/end_res.gif){:height="36px" width="36px"}
+![](imgaes/end_res.gif)
 
 # [Poject 2 Price Prediction](https://github.com/tural327/price_pred_full_project)
  Project purpose is to make a price prediction of home at Canada BC
@@ -19,4 +19,4 @@ Project have several parts
  3. By using sklearn regressor and finding best model for my data
  4. Build Flask web app to make prediction
  
- <img src="/imgaes/result.PNG" width="500">
+![](/imgaes/result.PNG)
