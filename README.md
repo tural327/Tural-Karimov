@@ -30,3 +30,13 @@ Project have several parts
  4. Build Flask web app to make prediction
  
 ![](/imgaes/result.PNG)
+
+
+# [Project 4: Face Recognition](https://github.com/tural327/face_recognition)
+Project purpose was classification of face images using simple Cv2 face detection module 
+For building python script I need collect data so I am going to use Bill Gates,Jak Ma,Elon Musk and my image
+* Before applying classification model I need crop face images from my data
+* Second I trained my face models by using tensorflow image classification
+* Now applying model to my script by detecting face and making prediction
+
+![](/imgaes/test2.png)
