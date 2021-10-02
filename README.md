@@ -1,7 +1,7 @@
 # My Projects:
 
 # [Project 1: 3D Image Reconstruction](https://github.com/tural327/3d-image-reconstruction)
-Making 3D reconstruction I need find 3d points of image. In that project I will be using 2 image for making 3D points. To make it we need to do several steps such as:
+Making 3D reconstruction I need find 3d points of image. In that project I will be using 2 images for making 3D points. To make it we need to do several steps such as:
 * Camera calibration -  using [opencv library](https://docs.opencv.org/3.4.15/dc/dbb/tutorial_py_calibration.html)
 * Finding EssentialMatrix - I find key points and I find matched points for both images
 * recoverPose algorithm help us to find second camera params : **points, R_est, t_est, mask_pose**
