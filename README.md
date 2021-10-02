@@ -1,5 +1,3 @@
-# Tural-Karimov
-
 # My Projects:
 
 # [Project 1: Fish classifier and segmentation](https://github.com/tural327/Fish_classifier_desk_app)
