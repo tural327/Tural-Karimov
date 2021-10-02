@@ -19,3 +19,4 @@ Project have several parts
  3. By using sklearn regressor and finding best model for my data
  4. Build Flask web app to make prediction
  
+ <img src="/imgaes/result.PNG" width="500">
