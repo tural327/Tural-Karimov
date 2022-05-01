@@ -9,9 +9,19 @@ Making 3D reconstruction I need find 3d points of image. In that project I will 
 
 ![](imgaes/photo_result.gif)
 
+# [Project 2: Chest-X-Ray](https://github.com/tural327/Chest-X-Ray-with-app)
 
-# [Project 2: Fish classifier and segmentation](https://github.com/tural327/Fish_classifier_desk_app)
-* Application was built base on kaggle dataset and making classification fish types ("Black Sea Sprat","Gilt-Head Bream","Hourse Mackerel","Red Mullet","Red Sea Bream","Sea Bass","Shrimp","Striped Red Mullet","Trout")
+* Application buid for detecting Normal and Pneumonia lung. Data downloaded from Kaggle.com. You just need drag and drop your X-Ray result to see answer 
+Project steps:
+1. create input for training
+2. Building Convolutional Neural Network and display results
+3. Make desktop GUI by using Pyqt6
+
+![](https://github.com/tural327/test/blob/main/chest/res_app.gif)
+
+
+# [Project 3: Fish classifier and segmentation](https://github.com/tural327/Fish_classifier_desk_app)
+* Application built base on kaggle dataset and making classification fish types ("Black Sea Sprat","Gilt-Head Bream","Hourse Mackerel","Red Mullet","Red Sea Bream","Sea Bass","Shrimp","Striped Red Mullet","Trout")
 
 Project have several parts 
 1. Building U-net model
@@ -21,7 +31,7 @@ Project have several parts
 
 ![](imgaes/end_res.gif)
 
-# [Poject 3: Price Prediction](https://github.com/tural327/price_pred_full_project)
+# [Poject 4: Price Prediction](https://github.com/tural327/price_pred_full_project)
  Project purpose is to make a price prediction of home at Canada BC
  Project steps:
  1. Scraping data from [kijiji](https://www.kijiji.ca/)
@@ -32,7 +42,7 @@ Project have several parts
 ![](/imgaes/result.PNG)
 
 
-# [Project 4: Face Recognition](https://github.com/tural327/face_recognition)
+# [Project 5: Face Recognition](https://github.com/tural327/face_recognition)
 Project purpose was classification of face images using simple Cv2 face detection module 
 For building python script I need collect data so I am going to use Bill Gates,Jak Ma,Elon Musk and my image
 * Before applying classification model I need crop face images from my data
