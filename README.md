@@ -17,7 +17,7 @@ Project steps:
 2. Building Convolutional Neural Network and display results
 3. Make desktop GUI by using Pyqt6
 
-![](https://github.com/tural327/test/blob/main/chest/res_app.gif)
+![](imgaes/res_app.gif)
 
 
 # [Project 3: Fish classifier and segmentation](https://github.com/tural327/Fish_classifier_desk_app)
