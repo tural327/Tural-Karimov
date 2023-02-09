@@ -9,7 +9,18 @@ Making 3D reconstruction I need find 3d points of image. In that project I will 
 
 ![](imgaes/photo_result.gif)
 
-# [Project 2: Chest-X-Ray](https://github.com/tural327/Chest-X-Ray-with-app)
+# [Project 2: USA Air Quality Analysis](https://github.com/tural327/US_Air_Quality_Analysis)
+
+Project goal was make prediction for USA air quality by using sarimax module
+Building steps:
+* I devided dataset 3 parts : old data (not use for model), train data , test data
+* Adfuller test used for checking data type seasonal or not
+* Sarima parametrs finding by using hyperparameter tuning
+* Training model and testing part
+
+![](/imgaes/forecast_upcoming.png)
+
+# [Project 3: Chest-X-Ray](https://github.com/tural327/Chest-X-Ray-with-app)
 
 * Application buid for detecting Normal and Pneumonia lung. Data downloaded from Kaggle.com. You just need drag and drop your X-Ray result to see answer 
 Project steps:
@@ -20,7 +31,7 @@ Project steps:
 ![](imgaes/res_app.gif)
 
 
-# [Project 3: Fish classifier and segmentation](https://github.com/tural327/Fish_classifier_desk_app)
+# [Project 4: Fish classifier and segmentation](https://github.com/tural327/Fish_classifier_desk_app)
 * Application built base on kaggle dataset and making classification fish types ("Black Sea Sprat","Gilt-Head Bream","Hourse Mackerel","Red Mullet","Red Sea Bream","Sea Bass","Shrimp","Striped Red Mullet","Trout")
 
 Project have several parts 
@@ -31,7 +42,7 @@ Project have several parts
 
 ![](imgaes/end_res.gif)
 
-# [Poject 4: Price Prediction](https://github.com/tural327/price_pred_full_project)
+# [Poject 5: Price Prediction](https://github.com/tural327/price_pred_full_project)
  Project purpose is to make a price prediction of home at Canada BC
  Project steps:
  1. Scraping data from [kijiji](https://www.kijiji.ca/)
@@ -42,7 +53,7 @@ Project have several parts
 ![](/imgaes/result.PNG)
 
 
-# [Project 5: Face Recognition](https://github.com/tural327/face_recognition)
+# [Project 6: Face Recognition](https://github.com/tural327/face_recognition)
 Project purpose was classification of face images using simple Cv2 face detection module 
 For building python script I need collect data so I am going to use Bill Gates,Jak Ma,Elon Musk and my image
 * Before applying classification model I need crop face images from my data
